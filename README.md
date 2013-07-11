@@ -4,7 +4,7 @@ A [native Trigger.io plugin](https://trigger.io/docs/current/api/native_plugins/
 
 ##Usage
 
-The following example displays a UIActionSheet and binds function to the destructive and cancel buttons.
+The following example displays a UIActionSheet and binds function to the destructive and cancel buttons (planning on adding support for more than two buttons soon but feel free to fork and pull request!)
 
 ###Javascript
 

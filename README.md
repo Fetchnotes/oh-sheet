@@ -8,7 +8,8 @@ A (native Trigger.io plugin)[https://trigger.io/docs/current/api/native_plugins/
 `forge.internal.call('actionsheet.show', { text: text, destructiveTitle: destructiveTitle, cancelTitle: cancelTitle }` displays a UIActionSheet with the values provided for text, destructive button title (`destructiveTitle`) and cancel button title (`cancelTitle`).
 `forge.internal.addEventListener('actionsheet.destructive', onDestroy);` binds the onDestroy() function we set up earlier to the event thrown when the user taps the destructive button to dismiss the UIActionSheet. Replace `actionsheet.destructive` with `actionsheet.cancel` for the cancel event. Feel free to rename the onDestroy and onCancel functions.
   
-  ```var onDestroy = function() {
+  ```
+  var onDestroy = function() {
     // Run this code upon tapping the destructive button
   };
   var onCancel = function() {
@@ -22,7 +23,8 @@ A (native Trigger.io plugin)[https://trigger.io/docs/current/api/native_plugins/
   }, function() {
     forge.internal.addEventListener('actionsheet.destructive', onDestroy);
     forge.internal.addEventListener('actionsheet.cancel', onCancel);
-  });```
+  });
+  ```
   
   ##License
   

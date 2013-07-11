@@ -1,33 +1,57 @@
-#iOS UIActionSheet plugin for Trigger
+# oh-sheet
 
-A (native Trigger.io plugin)[https://trigger.io/docs/current/api/native_plugins/index.html "native Trigger.io plugins"] that lets you use Apple's native UIActionSheet API in your Trigger/Forge web applications.
+A [native Trigger.io plugin](https://trigger.io/docs/current/api/native_plugins/index.html "native Trigger.io plugins") that lets you use Apple's native UIActionSheet API in your Trigger/Forge web applications.
 
-##Usage with Javascript
+## Usage
 
-Observe the following Javscript example for displaying a UIActionSheet and binding events to both the destructive and cancel buttons.
+The following example displays a UIActionSheet and binds function to the destructive and cancel buttons.
 
-`onDestroy()` and `onCancel()` set up two functions, one each for the two buttons on the UIActionSheet (destructive button, cancel button… Support for more than two buttons is coming. Feel free to fork and pull request if you build it before I do.)
+### Javascript
 
-`forge.internal.call('actionsheet.show', { text: text, destructiveTitle: destructiveTitle, cancelTitle: cancelTitle }` displays a UIActionSheet with the values provided for text, destructive button title (`destructiveTitle`) and cancel button title (`cancelTitle`).
-
-`forge.internal.addEventListener('actionsheet.destructive', onDestroy);` binds the onDestroy() function we set up earlier to the event thrown when the user taps the destructive button to dismiss the UIActionSheet. Replace `actionsheet.destructive` with `actionsheet.cancel` for the cancel event. Feel free to rename the onDestroy and onCancel functions.
-  
   ```javascript
+  // Declare function to bind to UIActionSheet's destructive button
   var onDestroy = function() {
     // Run this code upon tapping the destructive button
   };
+  // Declare function to bind to UIActionSheet's cancel button
   var onCancel = function() {
     // Run this code upon tapping the cancel button
   };
   
+  // Display the UIActionSheet
   forge.internal.call('actionsheet.show', {
+    // with provided text and button titles
     text: text,
     destructiveTitle: destructiveTitle,
     cancelTitle: cancelTitle
   }, function() {
+    // Bind onDestroy and onCancel to respective actionsheet events
     forge.internal.addEventListener('actionsheet.destructive', onDestroy);
     forge.internal.addEventListener('actionsheet.cancel', onCancel);
   });
+  ```
+  
+  ### CoffeeScript
+
+  ```coffeescript
+  # Declare function to bind to UIActionSheet's destructive button
+  onDestroy = () ->
+    # Run this code upon tapping the destructive button
+    
+  # Declare function to bind to UIActionSheet's cancel button
+  onCancel = () ->
+    # Run this code upon tapping the cancel button
+  
+  # Display the UIActionSheet
+  forge.internal.call 'actionsheet.show' ->
+    # with provided text and button titles
+    text: text
+    destructiveTitle: destructiveTitle
+    cancelTitle: cancelTitle
+  , () ->
+    # Bind onDestroy and onCancel to respective actionsheet events
+    forge.internal.addEventListener 'actionsheet.destructive', onDestroy
+    forge.internal.addEventListener 'actionsheet.cancel', onCancel
   ```
   
   ##License

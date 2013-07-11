@@ -53,7 +53,9 @@ forge.internal.call 'actionsheet.show' ->
 forge.internal.addEventListener 'actionsheet.destructive', onDestroy
 forge.internal.addEventListener 'actionsheet.cancel', onCancel
 ```
-  
+##Testing
+Tested on iOS 5.0 - 7.0 beta 3
+
 ##License
   
   Copyright (c) 2013, Giles Van Gruisen

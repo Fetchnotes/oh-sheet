@@ -4,11 +4,15 @@ A (native Trigger.io plugin)[https://trigger.io/docs/current/api/native_plugins/
 
 ##Usage with Javascript
 
+Observe the following Javscript example for displaying a UIActionSheet and binding events to both the destructive and cancel buttons.
+
 `onDestroy()` and `onCancel()` set up two functions, one each for the two buttons on the UIActionSheet (destructive button, cancel button… Support for more than two buttons is coming. Feel free to fork and pull request if you build it before I do.)
+
 `forge.internal.call('actionsheet.show', { text: text, destructiveTitle: destructiveTitle, cancelTitle: cancelTitle }` displays a UIActionSheet with the values provided for text, destructive button title (`destructiveTitle`) and cancel button title (`cancelTitle`).
+
 `forge.internal.addEventListener('actionsheet.destructive', onDestroy);` binds the onDestroy() function we set up earlier to the event thrown when the user taps the destructive button to dismiss the UIActionSheet. Replace `actionsheet.destructive` with `actionsheet.cancel` for the cancel event. Feel free to rename the onDestroy and onCancel functions.
   
-  ```
+  ```javascript
   var onDestroy = function() {
     // Run this code upon tapping the destructive button
   };

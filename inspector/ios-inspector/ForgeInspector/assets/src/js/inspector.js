@@ -1,11 +1,8 @@
-forge.internal.addEventListener("alert.resume", function () {
-	alert("Weclome back!");
-});
-
 forge.inspector = {
-	getFixture: function (plugin, file) {
-		var url = window.location.href.substring(0, window.location.href.length-10);
-		url = url + 'fixtures/' + plugin + (file.substring(0, 1) == '/' ? '' : '/') + file;
+	getFixture: function (module, file) {
+		var location = window.location.origin + window.location.pathname;
+		var url = decodeURI(location.substring(0, location.length-10));
+		url = url + 'fixtures/' + module + (file.substring(0, 1) == '/' ? '' : '/') + file;
 		return {
 			uri: url
 		};

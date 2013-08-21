@@ -32,6 +32,8 @@
 + (void)application:(UIApplication *)application didReceiveRemoteNotification:(NSDictionary *)userInfo;
 + (void)applicationDidEnterBackground:(UIApplication *)application;
 + (void)applicationWillEnterForeground:(UIApplication *)application;
++ (void)applicationWillResume:(UIApplication *)application;
++ (void)applicationIsReloading;
 + (void)preFirstWebViewLoad;
 + (void)firstWebViewLoad;
 + (NSNumber*)application:(UIApplication *)application handleOpenURL:(NSURL *)url;
@@ -39,5 +41,6 @@
 + (NSNumber*)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation;
 + (NSNumber*)supportedInterfaceOrientations;
 + (void)willRotateToInterfaceOrientation:(UIInterfaceOrientation)toInterfaceOrientation duration:(NSTimeInterval)duration;
-
++ (NSNumber*)canBecomeFirstResponder;
++ (void)remoteControlReceivedWithEvent:(UIEvent *) receivedEvent;
 @end

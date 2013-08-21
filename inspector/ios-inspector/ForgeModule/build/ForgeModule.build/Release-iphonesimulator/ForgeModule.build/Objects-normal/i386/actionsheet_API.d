@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/gilesvangruisen/forge-workspace/plugins/actionsheet/inspector/ios-inspector/ForgeModule/alert/actionsheet_API.m \
-  alert/actionsheet_API.h
+  /Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/actionsheet_API.m \
+  /Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/actionsheet_API.h

@@ -35,11 +35,11 @@ forge.internal.call('actionsheet.show', {
 
 ```coffeescript
 # Declare function to bind to UIActionSheet's destructive button
-onDestroy = () ->
+onDestroy = ->
   # Run this code upon tapping the destructive button
 
 # Declare function to bind to UIActionSheet's cancel button
-onCancel = () ->
+onCancel = ->
   # Run this code upon tapping the cancel button
 
 # Display the UIActionSheet
@@ -48,10 +48,10 @@ forge.internal.call 'actionsheet.show' ->
   text: "Are you sure you want to cancel your changes?"
   destructiveTitle: "Yes, kill them!"
   cancelTitle: "No, just kidding."
-, () ->
-# Bind onDestroy and onCancel to respective actionsheet events
-forge.internal.addEventListener 'actionsheet.destructive', onDestroy
-forge.internal.addEventListener 'actionsheet.cancel', onCancel
+, ->
+  # Bind onDestroy and onCancel to respective actionsheet events
+  forge.internal.addEventListener 'actionsheet.destructive', onDestroy
+  forge.internal.addEventListener 'actionsheet.cancel', onCancel
 ```
 ##Testing
 Tested on iOS 5.0 - 7.0 beta 3

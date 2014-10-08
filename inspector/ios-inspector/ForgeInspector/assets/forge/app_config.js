@@ -1,1 +1,1 @@
-window.forge = {}; window.forge.config = {"modules": {"inspector": {"version": "1.0"}, "actionsheet": {"version": "exampleversion"}}};
+window.forge = {}; window.forge.config = {"this_module": {"config": {}}, "modules": {"inspector": {"version": "1.0"}}};

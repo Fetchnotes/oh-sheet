@@ -1,0 +1,240 @@
+TForgeModule
+v5
+r1
+cCheck dependencies
+cProcessPCH /var/folders/vm/hzg_64bj7sl82yhclg5q2t240000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ForgeModule-Prefix-aykyhlsicflixxahyuvdvljddawa/ForgeModule-Prefix.pch.pth ForgeModule-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/actionsheet_API.o /Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/actionsheet_API.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/libForgeModule.a normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000051BB6B440000000000000110
+t1371237188
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/AssetsLibrary.framework/AssetsLibrary
+c00000000516D795900000000000226E0
+t1366128985
+s141024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000516D795A0000000000228FE0
+t1366128986
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000516D795B00000000003DDFA0
+t1366128987
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c00000000516D795E000000000006CC50
+t1366128990
+s445520
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000516D79600000000000AB6230
+t1366128992
+s11231792
+
+N/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/../ForgeCore.framework/ForgeCore
+c00000000520529BF000000000055CECC
+t1376070079
+s5623500
+
+N/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/../ForgeCore.framework/Headers/ALAsset+Data.h
+c00000000520529BF000000000000010F
+t1376070079
+s271
+
+N/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/../ForgeCore.framework/Headers/BorderControl.h
+c00000000520529BF0000000000000220
+t1376070079
+s544
+
+N/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/../ForgeCore.framework/Headers/ForgeApp.h
+c00000000520529BF0000000000000403
+t1376070079
+s1027
+
+N/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/../ForgeCore.framework/Headers/ForgeAppDelegate.h
+c00000000520529BF0000000000000187
+t1376070079
+s391
+
+N/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/../ForgeCore.framework/Headers/ForgeCore.h
+c00000000520529BF00000000000002F6
+t1376070079
+s758
+
+N/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/../ForgeCore.framework/Headers/ForgeEventListener.h
+c00000000520529BF0000000000000BA2
+t1376070079
+s2978
+
+N/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/../ForgeCore.framework/Headers/ForgeFile.h
+c00000000520529BF000000000000037A
+t1376070079
+s890
+
+N/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/../ForgeCore.framework/Headers/ForgeLog.h
+c00000000520529BF000000000000013F
+t1376070079
+s319
+
+N/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/../ForgeCore.framework/Headers/ForgeTask.h
+c00000000520529BF00000000000002F7
+t1376070079
+s759
+
+N/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/../ForgeCore.framework/Headers/ForgeUtil.h
+c00000000520529BF0000000000000115
+t1376070079
+s277
+
+N/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/../ForgeCore.framework/Headers/ForgeViewController.h
+c00000000520529BF00000000000001C2
+t1376070079
+s450
+
+N/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/../ForgeCore.framework/Headers/JSONKit.h
+c00000000520529BF0000000000002DBE
+t1376070079
+s11710
+
+N/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/../ForgeCore.framework/Headers/NSData+Base64.h
+c00000000520529BF0000000000000212
+t1376070079
+s530
+
+N/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/../ForgeCore.framework/Headers/NSFileManager+DirectoryLocations.h
+c00000000520529BF000000000000057F
+t1376070079
+s1407
+
+N/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/../ForgeCore.framework/Headers/NSFileManager+DoNotBackup.h
+c00000000520529BF00000000000000A2
+t1376070079
+s162
+
+N/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/../ForgeCore.framework/Headers/NSURL+QueryString.h
+c00000000520529BF0000000000000103
+t1376070079
+s259
+
+N/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/../ForgeCore.framework/Headers/Reachability.h
+c00000000520529BF0000000000000CDD
+t1376070079
+s3293
+
+N/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/../ForgeCore.framework/Headers/UIImage+ResizeImage.h
+c00000000520529BF0000000000000182
+t1376070079
+s386
+
+N/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/../ForgeCore.framework/Headers/UIViewController+dismissViewControllerHelper.h
+c00000000520529BF0000000000000149
+t1376070079
+s329
+
+N/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch
+c00000000520529BF0000000000000159
+t1376070079
+s345
+
+N/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/actionsheet_API.h
+c00000000520529BF00000000000000CD
+t1376070079
+s205
+
+N/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/actionsheet_API.m
+c0000000052052A4E0000000000000427
+t1376070222
+s1063
+
+N/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/actionsheet_EventListener.m
+c0000000052052A8200000000000000E3
+t1376070274
+s227
+
+N/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/ForgeModule.LinkFileList
+c00000000520BCAA900000000000000C1
+t1376504489
+s193
+
+N/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/actionsheet_API.o
+t1376070474
+s75816
+
+N/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/actionsheet_EventListener.o
+t2
+s0
+
+N/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/libForgeModule.a
+t1376070474
+s153808
+
+N/var/folders/vm/hzg_64bj7sl82yhclg5q2t240000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ForgeModule-Prefix-aykyhlsicflixxahyuvdvljddawa/ForgeModule-Prefix.pch.pth
+t1376070474
+s5077992
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies772bef2802bcb741^ae9c112902bcb741^---0#1#0#--18"Check dependencies36"678B957E-E072-4FF8-AD7A-F127D5D0E35C-
+
+CCompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/actionsheet_API.o /Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/actionsheet_API.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397763274.127238
+e397763274.231359
+r1
+xCompileC
+xbuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/actionsheet_API.o
+x/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/actionsheet_API.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/actionsheet_API.m:8:44: warning: incompatible pointer types sending 'const Class' to parameter of type 'id<UIActionSheetDelegate>' [-Wincompatible-pointer-types]
+o                                  delegate:self
+o                                           ^~~~
+o/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActionSheet.h:117:75: note: passing argument to parameter 'delegate' here
+o- (id)initWithTitle:(NSString *)title delegate:(id<UIActionSheetDelegate>)delegate cancelButtonTitle:(NSString *)cancelButtonTitle destructiveButtonTitle:(NSString *)destructiveButtonTitle otherButtonTitles:(NSString *)otherButtonTitles, ... NS_REQUIRES_NIL_TERMINATION;
+o                                                                          ^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/actionsheet_API.m7e0121ca62b5b741^08393bca62b5b741^-957"/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/actionsheet_API.m:8:44: warning: incompatible pointer types sending 'const Class' to parameter of type 'id<UIActionSheetDelegate>' [-Wincompatible-pointer-types]                                  delegate:self                                           ^~~~/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActionSheet.h:117:75: note: passing argument to parameter 'delegate' here- (id)initWithTitle:(NSString *)title delegate:(id<UIActionSheetDelegate>)delegate cancelButtonTitle:(NSString *)cancelButtonTitle destructiveButtonTitle:(NSString *)destructiveButtonTitle otherButtonTitles:(NSString *)otherButtonTitles, ... NS_REQUIRES_NIL_TERMINATION;                                                                          ^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@97"Incompatible pointer types sending 'const Class' to parameter of type 'id<UIActionSheetDelegate>'-397763274#18446744073709551615#0#1(2@45"Passing argument to parameter 'delegate' here-397763274#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@197"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIActionSheet.h0000000000000000^116#74#116#74#4790#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@122"file://localhost/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/actionsheet_API.m0000000000000000^7#43#7#43#347#0#14"Semantic Issue1(3@122"file://localhost/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/actionsheet_API.m0000000000000000^7#43#7#47#347#0#-0#0#0#-19%DVTDocumentLocation4@122"file://localhost/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/actionsheet_API.m0000000000000000^4201"CompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/actionsheet_API.o actionsheet_API.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.3 -I/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/ForgeModule.hmap -I/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/include -I. -I/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources/i386 -I/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources -F/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator -F/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule -F/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/.. -include /var/folders/vm/hzg_64bj7sl82yhclg5q2t240000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ForgeModule-Prefix-aykyhlsicflixxahyuvdvljddawa/ForgeModule-Prefix.pch -MMD -MT dependencies -MF /Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/actionsheet_API.d --serialize-diagnostics /Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/actionsheet_API.dia -c /Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/actionsheet_API.m -o /Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/actionsheet_API.o36"100CFC0E-972D-409F-B353-29A733C6DBBD-
+
+CCompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/actionsheet_EventListener.o /Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/actionsheet_EventListener.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397763274.127236
+e397763274.221611
+r1
+xCompileC
+xbuild/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/actionsheet_EventListener.o
+x/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/actionsheet_EventListener.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Compile /Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/actionsheet_EventListener.md20121ca62b5b741^e9ba38ca62b5b741^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/actionsheet_EventListener.m0000000000000000^4261"CompileC build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/actionsheet_EventListener.o actionsheet_EventListener.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.3 -I/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/ForgeModule.hmap -I/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/include -I. -I/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources/i386 -I/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources -F/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator -F/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule -F/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/.. -include /var/folders/vm/hzg_64bj7sl82yhclg5q2t240000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ForgeModule-Prefix-aykyhlsicflixxahyuvdvljddawa/ForgeModule-Prefix.pch -MMD -MT dependencies -MF /Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/actionsheet_EventListener.d --serialize-diagnostics /Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/actionsheet_EventListener.dia -c /Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/actionsheet_EventListener.m -o /Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/actionsheet_EventListener.o36"E22D80A9-6AE7-4021-9929-21710AD89CD9-
+
+CLibtool /Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/libForgeModule.a normal i386
+s398197289.091245
+e398197289.122012
+r1
+xLibtool
+x/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/libForgeModule.a
+xnormal
+xi386
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Libtool build/Release-iphonesimulator/libForgeModule.a normal i3863b52192902bcb741^103b1f2902bcb741^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#0#--1950"Libtool build/Release-iphonesimulator/libForgeModule.a normal i386    cd /Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator -filelist /Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/Objects-normal/i386/ForgeModule.LinkFileList -ObjC -framework SystemConfiguration -framework AssetsLibrary -framework CoreGraphics -framework UIKit -framework Foundation -framework ForgeCore -o /Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/libForgeModule.a36"30AD38A8-097C-4201-AE9E-4F6F54CCFADF-
+
+CProcessPCH /var/folders/vm/hzg_64bj7sl82yhclg5q2t240000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ForgeModule-Prefix-aykyhlsicflixxahyuvdvljddawa/ForgeModule-Prefix.pch.pth ForgeModule-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s397763273.772436
+e397763274.120258
+r1
+xProcessPCH
+x/var/folders/vm/hzg_64bj7sl82yhclg5q2t240000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ForgeModule-Prefix-aykyhlsicflixxahyuvdvljddawa/ForgeModule-Prefix.pch.pth
+xForgeModule-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile ForgeModule-Prefix.pch302dc6c962b5b741^1dc81eca62b5b741^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch0000000000000000^4035"ProcessPCH /var/folders/vm/hzg_64bj7sl82yhclg5q2t240000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ForgeModule-Prefix-aykyhlsicflixxahyuvdvljddawa/ForgeModule-Prefix.pch.pth ForgeModule-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.3 -I/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/ForgeModule.hmap -I/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator/include -I. -I/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources/i386 -I/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/ForgeModule.build/Release-iphonesimulator/ForgeModule.build/DerivedSources -F/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/Release-iphonesimulator -F/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule -F/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/.. --serialize-diagnostics /var/folders/vm/hzg_64bj7sl82yhclg5q2t240000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ForgeModule-Prefix-aykyhlsicflixxahyuvdvljddawa/ForgeModule-Prefix.pch.dia -c /Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/ForgeModule-Prefix.pch -o /var/folders/vm/hzg_64bj7sl82yhclg5q2t240000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ForgeModule-Prefix-aykyhlsicflixxahyuvdvljddawa/ForgeModule-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/vm/hzg_64bj7sl82yhclg5q2t240000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/ForgeModule-Prefix-aykyhlsicflixxahyuvdvljddawa/ForgeModule-Prefix.pch.d36"0F2F84C7-6260-46E9-A2A6-E02FCE5D037F-
+

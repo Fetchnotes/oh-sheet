@@ -1,22 +1,0 @@
-TForgeModuleResources
-v5
-r1
-cCheck dependencies
-cTouch /Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/actionsheet.bundle
-
-N/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/actionsheet.bundle
-t2
-s0
-
-CCheck dependencies
-r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies6d8df82702bcb741^49f2642802bcb741^---0#1#0#--18"Check dependencies36"AED10664-EE07-4BB9-B79F-A0732221A351-
-
-CTouch /Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/actionsheet.bundle
-s398197288.398570
-e398197288.412641
-r1
-xTouch
-x/Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/actionsheet.bundle
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Touch /Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/actionsheet.bundle6b61662802bcb741^2fa2692802bcb741^---0#0#0#--297"Touch build/Release-iphoneos/actionsheet.bundle    cd /Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule    /usr/bin/touch -c /Users/alexhorak/forge-workspace/modules/actionsheet/inspector/ios-inspector/ForgeModule/build/Release-iphoneos/actionsheet.bundle36"785EAD22-F561-49DD-A38A-3A060250CD39-
-
